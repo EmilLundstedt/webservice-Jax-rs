@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/_/Documents/NetBeansProjects/MovieNet/web/AddMovie.xhtml</file>
+            <file>file:/C:/Users/_/Documents/NetBeansProjects/MovieNet/src/conf/persistence.xml</file>
+            <file>file:/C:/Users/_/Documents/NetBeansProjects/MovieNet/src/java/dao/MovieManagerInterface.java</file>
+            <file>file:/C:/Users/_/Documents/NetBeansProjects/MovieNet/src/java/controller/MovieController.java</file>
+            <file>file:/C:/Users/_/Documents/NetBeansProjects/MovieNet/web/WEB-INF/glassfish-resources.xml</file>
+            <file>file:/C:/Users/_/Documents/NetBeansProjects/MovieNet/src/conf/MANIFEST.MF</file>
+            <file>file:/C:/Users/_/Documents/NetBeansProjects/MovieNet/web/index.xhtml</file>
+            <file>file:/C:/Users/_/Documents/NetBeansProjects/MovieNet/src/java/service/MovieRest.java</file>
+            <file>file:/C:/Users/_/Documents/NetBeansProjects/MovieNet/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/_/Documents/NetBeansProjects/MovieNet/web/ViewMovie.xhtml</file>
+            <file>file:/C:/Users/_/Documents/NetBeansProjects/MovieNet/src/java/entity/Movie.java</file>
+            <file>file:/C:/Users/_/Documents/NetBeansProjects/MovieNet/web/resources/css/style.css</file>
+            <file>file:/C:/Users/_/Documents/NetBeansProjects/MovieNet/web/UpdateMovie.xhtml</file>
+            <file>file:/C:/Users/_/Documents/NetBeansProjects/MovieNet/src/java/dao/MovieManager.java</file>
+            <file>file:/C:/Users/_/Documents/NetBeansProjects/MovieNet/src/java/service/ApplicationConfig.java</file>
+        </group>
+    </open-files>
+</project-private>
